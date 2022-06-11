@@ -1,4 +1,4 @@
-# Transformacion_de_hough
+# Transformacion de Hough
 Trabajo práctico Nro.4
 
 SISTEMA DE SIMULACION TRANSFORMACION DE HOUGH
