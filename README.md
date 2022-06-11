@@ -1,0 +1,8 @@
+# Transformación de Hough
+Trabajo práctico Nro.4
+
+SISTEMA DE SIMULACION TRANSFORMACION DE HOUGH
+
+MATERIA INTELIGENCIA ARTIFICIAL
+
+ALUMNO Di Pierro, Sebastián Miguel. (VINF07402). 
