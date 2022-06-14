@@ -21,6 +21,6 @@ for i in circles[0,:]:
     # draw the center of the circle
     cv2.circle(cimg,(i[0],i[1]),2,(0,0,255),3)
 
-cv2.imshow('detected circles',cimg)
+cv2.imshow('Resultado de la imagen',cimg)
 cv2.waitKey(0)
 cv2.destroyAllWindows()

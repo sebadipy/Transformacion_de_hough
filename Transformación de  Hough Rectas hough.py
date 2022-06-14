@@ -33,6 +33,6 @@ for line in lines:
     cv2.line(img, (x1, y1), (x2, y2), (0, 0, 255), 2)
 
 
-cv2.imshow('image', img)
+cv2.imshow('Resultado de la imagen', img)
 k = cv2.waitKey(0)
 cv2.destroyAllWindows()
