@@ -2,7 +2,9 @@
 SISTEMA DE SIMULACION TRANSFORMACION DE HOUGH
 Análisis de circunsferencias
 MATERIA INTELIGENCIA ARTIFICIAL 
-ALUMNO Di Pierro, Sebastián Miguel. (VINF07402).
+ALUMNOS:
+● Sebastián Miguel. (VINF07402).
+● Daniele, Santiago Facundo (VINF05622).
         
 '''
 import cv2
